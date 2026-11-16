@@ -6,7 +6,7 @@ Bienvenue sur mon profil GitHub ! Passionné par l'informatique, le développeme
 
 ### 🚀 À propos de moi
 
-- 🔭 **Projet actuel :** Je travaille actuellement sur la création d'un site web et d'une application.
+- 🔭 **Projet actuel :** Je travaille actuellement sur la création d'un site web de Gestion des Congés et d'une application de Réservation de Voyages.
 - 🌱 **Apprentissage :** J'approfondis mes connaissances en développement et nouvelles technologies (Dart, Lovable, WordPress...).
 - 👯 **Collaboration :** Je suis ouvert à toute collaboration sur des projets open-source ou liés à l'informatique.
 - 💬 **Pose-moi des questions sur :** Le développement web, les bases de données et la sécurisation des données.
